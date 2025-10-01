@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "date": "02-Oct-2025",
+    "debitEntry": ["Cash"],
+    "creditEntry": ["Sales"],
+    "debit": [200],
+    "credit": [200]
+  },
+  {
+    "id": 1,
+    "date": "08-Oct-2025",
+    "debitEntry": ["Cash"],
+    "creditEntry": ["A/C receivable"],
+    "debit": [800],
+    "credit": [800]
+  },
+  {
+    "id": 1,
+    "date": "10-Oct-2025",
+    "debitEntry": ["Machine"],
+    "creditEntry": ["A/C Payable", "Cash", "Bank"],
+    "debit": [12000],
+    "credit": [2000, 5000, 5000]
+  },
+  {
+    "id": 1,
+    "date": "16-Oct-2025",
+    "debitEntry": ["A/C Receivable", "Discount Allowed", "Cash"],
+    "creditEntry": ["Sales"],
+    "debit": [1000, 200, 3800],
+    "credit": [5000]
+  },
+  {
+    "id": 1,
+    "date": "24-Oct-2025",
+    "debitEntry": ["Other Expense"],
+    "creditEntry": ["Bank"],
+    "debit": [200],
+    "credit": [200]
+  },
+  {
+    "id": 1,
+    "date": "24-Oct-2025",
+    "debitEntry": ["Bank","PPE"],
+    "creditEntry": ["Bank"],
+    "debit": [40000,5200],
+    "credit": [45200]
+  }
+]

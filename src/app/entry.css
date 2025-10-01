@@ -1,0 +1,24 @@
+.entry-item{
+    width: 10%;
+    text-align: center;
+}
+.main{
+    padding: 5px 10px
+}
+
+.entry-item1{
+    width: 15%;
+}
+.entry-heading{
+    width: 35%;
+
+}
+.entry-item2{
+
+    width: 35%;
+    text-align: start;
+}
+
+.credit{
+    margin-left: 12%;
+}
