@@ -2,9 +2,18 @@
 import { useEffect, useState } from 'react';
 import Entry from './entry';
 
+interface EntryType {
+  id: string;
+  date: string;
+  debitEntry: string;
+  creditEntry: string;
+  debit: number;
+  credit: number;
+}
+
 
 export default function HomePage() {
-  const [entries, setEntries] = useState([]);
+  const [entries, setEntries]: EntryType[] = useState([]);
   const [error, setError] = useState<string | null>(null);
 
   const [debitEntryVar, setdebitEntryVar] = useState(['debbb'])
