@@ -36,9 +36,9 @@ export default function HomePage() {
   return (
     <div>
       {entries.map((entry) => (
-        <div key={entry.id}>
+        <div key={entry?.id}>
 
-          <Entry date={entry.date} debitEntry={entry.debitEntry} creditEntry={entry.creditEntry} debit={entry.debit} credit={entry.credit}></Entry>
+          <Entry date={entry?.date} debitEntry={entry?.debitEntry} creditEntry={entry?.creditEntry} debit={entry?.debit} credit={entry?.credit}></Entry>
         </div>
       ))}
     </div>
