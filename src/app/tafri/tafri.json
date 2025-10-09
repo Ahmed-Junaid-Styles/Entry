@@ -1,0 +1,96 @@
+[
+  {
+    "name": "ABC"
+  },
+  {
+    "name": "ABC"
+  },
+  {
+    "name": "ABC"
+  },
+  {
+    "name": "ABC"
+  },
+  {
+    "name": "ABC"
+  },
+  {
+    "id": 1759946770541,
+    "Debit": [
+      "cash"
+    ],
+    "Credit": [
+      "bank"
+    ],
+    "name": "EFGH"
+  },
+  {
+    "id": 1759946890040,
+    "DebitTitle": [
+      "cash"
+    ],
+    "CreditTitle": [
+      "bank"
+    ],
+    "DebitAmount": [
+      500
+    ],
+    "CreditAmount": [
+      500
+    ]
+  },
+  {
+    "id": 1759947048312,
+    "Date": "",
+    "DebitEntry": [
+      "cash",
+      "aaa"
+    ],
+    "CreditEntry": [
+      "bank"
+    ],
+    "Debit": [
+      500,
+      0
+    ],
+    "Credit": [
+      500
+    ]
+  },
+  {
+    "id": 1759947068674,
+    "Date": "2025-10-08",
+    "DebitEntry": [
+      "cash",
+      "aaa"
+    ],
+    "CreditEntry": [
+      "bank"
+    ],
+    "Debit": [
+      500,
+      0
+    ],
+    "Credit": [
+      500
+    ]
+  },
+  {
+    "id": 1759947208519,
+    "Date": 1759947208519,
+    "DebitEntry": [
+      "cash",
+      "rec"
+    ],
+    "CreditEntry": [
+      "sale"
+    ],
+    "Debit": [
+      800,
+      200
+    ],
+    "Credit": [
+      1000
+    ]
+  }
+]
